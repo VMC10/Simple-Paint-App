@@ -1,6 +1,3 @@
-A simple paint app written in C++ with wxWidgets framework
-
-
 # Simple Paint App
 A simple paint app written in C++ with wxWidgets framework.
 ## Resources
